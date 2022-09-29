@@ -5,7 +5,7 @@
 ### 于文档内引用
 
 ```markdown
-![MAA Logo](https://cdn.jsdelivr.net/gh/MaaArknightsAssistant/design@main/logo/maa-logo_512x512.png)
+![MAA Logo](https://cdn.jsdelivr.net/gh/MaaAssistantArknights/design@main/logo/maa-logo_256x256.png)
 ```
 
 ### 在 Web 项目内将 Logo 作为图标引用
