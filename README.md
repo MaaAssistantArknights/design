@@ -4,9 +4,14 @@
 
 ### 于文档内引用
 
-```markdown
-![MAA Logo](https://cdn.jsdelivr.net/gh/MaaAssistantArknights/design@main/logo/maa-logo_256x256.png)
+```html
+<img alt="MAA Logo" src="https://cdn.jsdelivr.net/gh/MaaAssistantArknights/design@main/logo/maa-logo_512x512.png" width="256" height="256" />
 ```
+
+```markdown
+![MAA Logo](https://cdn.jsdelivr.net/gh/MaaAssistantArknights/design@main/logo/maa-logo_512x512.png)
+```
+
 
 ### 在 Web 项目内将 Logo 作为图标引用
 
